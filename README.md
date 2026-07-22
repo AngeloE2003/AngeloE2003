@@ -44,9 +44,10 @@
 ## 🚀 Proyectos Destacados
 
 ### 🍰 E-Commerce "Dulce Alegría" (Full-Stack)
-Sistema completo de tienda en línea y panel administrativo.
-* **Frontend:** [Repositorio Angular](https://github.com/AngeloE2003/Proyecto-Angular_Frontend_Pagina_Web_Dulce_Alegria) - Páginas de inicio, carrito de compras, dashboard, y diseño responsive.
-* **Backend:** [Repositorio Spring Boot](https://github.com/AngeloE2003/Proyecto-Spring_Backend_Pagina_Web_Dulce_Alegria) - API REST, conexión con MySQL y seguridad con tokens JWT.
+Sistema completo de tienda en línea y panel administrativo, dividido en tres capas estructurales:
+* **Frontend:** [Repositorio Angular](https://github.com/AngeloE2003/Proyecto-Angular_Frontend_Pagina_Web_Dulce_Alegria) - Páginas de inicio, carrito de compras, dashboard administrativo y diseño responsive.
+* **Backend:** [Repositorio Spring Boot](https://github.com/AngeloE2003/Proyecto-Spring_Backend_Pagina_Web_Dulce_Alegria) - API REST, lógica de negocio y seguridad implementada con tokens JWT.
+* **Base de Datos:** [Repositorio MySQL](https://github.com/AngeloE2003/Proyecto-BD_Pagina_Web_Dulce_Alegria) - Capa de persistencia con los scripts de estructura y registros base para la simulación del proyecto.
 
 ### 🏧 [Simulador de Cajero Automático (Python)](https://github.com/AngeloE2003/simulador-cajero-python)
 Sistema diseñado para gestionar clientes y transacciones financieras. Implementa algoritmos complejos como *QuickSort* y *Búsqueda Binaria* para optimizar el rendimiento de los datos.
