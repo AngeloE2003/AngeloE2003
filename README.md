@@ -68,8 +68,8 @@ Prototipo que permite el encendido y apagado remoto de luces a través de una re
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeloE2003&show_icons=true&theme=radical" alt="Estadísticas de Angelo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloE2003&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngeloE2003&show_icons=true&theme=radical&v=1" alt="Estadísticas de Angelo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloE2003&layout=compact&theme=radical&v=1" alt="Lenguajes más usados" />
 </p>
 
 ---
